@@ -4,7 +4,7 @@ Script that fetches a given url
 
 import requests
 
-res = requests.get("https://alu-intranet.hbtn.io/status")
+res = requests.get("https://intranet.hbtn.io/status")
 
 returned_type = type(res.text)
 content = res.text
