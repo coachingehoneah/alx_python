@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-"""Module comments goes0
-
-This is a regular module comment
+"""Module comments goes
 """
 
 import requests
