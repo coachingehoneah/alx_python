@@ -1,4 +1,5 @@
-"""Module comments goes
+"""
+Script that fetches a given url
 """
 
 import requests
